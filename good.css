@@ -1,0 +1,30 @@
+.jumbotron{
+	background-color:#2E2D88;
+	color: white;
+}
+.jumbotron p{
+	text-align: center;
+	
+}
+.jumbotron-another{
+	background-color:red;
+}
+.page-header{
+	margin: 0;
+	
+}
+.tab-content p{
+	font-size: 15px;
+}
+.container h2{
+	
+	
+}
+.profiletext ul{
+	font-size : 20px;
+	margin: 20px 0px 20px 0px;
+	padding: 0 0 0 20px;
+}
+.profiletext li{
+	margin: 5px 0 5px 0;
+}

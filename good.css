@@ -29,3 +29,22 @@
 	margin: 5px 0 5px 0;
 	list-style-type: none;
 }
+.home-jumbotron p{
+	font-size: 30px;
+}
+.home-jumbotron{
+	background-color: #f16e23;
+}
+.nav-pills li.active a:hover, .nav-pills li.active a:focus, .nav-pills li.active a {
+	background-color: #f16e23;
+}
+.nav-pills li a{
+	color: #f16e23;
+}
+.course-ul p{
+	font-size: 20px;
+	color: #f16e23;
+}
+.course-ul{
+	
+}

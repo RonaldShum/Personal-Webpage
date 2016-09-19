@@ -44,7 +44,10 @@
 .course-ul p{
 	font-size: 20px;
 	color: #f16e23;
+	margin-top: 10px;
 }
-.course-ul{
-	
+.course-ul li{
+	border-bottom: 1px solid black;
+	list-style-type: none;
 }
+
